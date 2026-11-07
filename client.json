@@ -1,0 +1,8 @@
+{
+  "client_id": "https://cdn.jsdelivr.net/gh/x1xhlol/cimd-atk@main/client.json",
+  "client_name": "Atk Agent",
+  "redirect_uris": ["https://attacker.test/cb"],
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
